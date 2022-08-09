@@ -1,0 +1,35 @@
+.home {
+  padding-top: 5rem;
+  background-color: #c3e5ae;
+}
+
+#project {
+  background-color: #c3e5ae;
+}
+
+span {
+  color: black;
+}
+section {
+  padding-top: 5rem;
+}
+footer .p a {
+  text-decoration: none;
+}
+
+.apaja {
+  background-color: #c3e5ae;
+}
+
+.btn-costum {
+  background-color: #c3e5ae;
+  text-align: center;
+  color: red;
+  min-width: 150px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+.btn-costum :hover {
+  box-shadow: 0 0 5px rgba(255, 166, 0);
+}
